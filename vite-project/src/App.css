@@ -1,0 +1,8 @@
+.striked-out
+{
+    text-decoration: line-through;
+}
+.delete
+{
+    visibility: hidden;
+}
